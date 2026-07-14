@@ -60,3 +60,7 @@ jupyter notebook notebooks/wine_quality_analysis.ipynb
 ## 📦 Dataset
 
 [Wine Quality Dataset](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset) — 1.599 amostras de vinho tinto, 11 variáveis físico-químicas + nota de qualidade (especialistas).
+
+## 👤 Autor
+
+**Edmundo Lima** — Pós Tech Data Analytics, POSTECH/FIAP
